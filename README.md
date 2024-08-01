@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @JamFarhad
+- 👋 Hi, I’m @FarhadAthar
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning Dart
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 1(Twitter)_https://twitter.com/FarhadAthar?t=mDVeh43z7AuHcGRfXXNAOA&s=09
